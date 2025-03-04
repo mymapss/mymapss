@@ -2,23 +2,28 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer
+- 💼 FrontEnd Developer | Web Developer | Full Stack Developer | Tech Enthusiast
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Working on exciting web projects and open-source contributions
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Passionate about JavaScript, TypeScript, and building creative web experiences
 
 - 💬 Ask me about anything [here](https://github.com/mymapss/mymapss/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="Express.js" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
+<code><img height="20" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+
 
 
 | <a href="https://github.com/mymapss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mymapss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mymapss's github stats" /></a> | <a href="https://github.com/mymapss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymapss&layout=compact&theme=buefy&hide_border=true" /></a> |
