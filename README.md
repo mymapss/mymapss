@@ -22,9 +22,9 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="center"><a href="https://mymapss.github.io"><img width="80%" alt="Hello, I'm Bhoomika. I do open source!" src="Mymapss Github Stats.png" /></a></p>
 
+<br />
 
 
 #### Top Repositories
