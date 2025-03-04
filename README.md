@@ -22,18 +22,19 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 
-| <a href="https://github.com/torvalds"><img align="center" src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linus Torvalds' GitHub Stats" /></a> | <a href="https://github.com/sindresorhus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sindresorhus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sindre Sorhus' GitHub Stats" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 
 #### Top Repositories
 
 
-<a href="https://github.com/mymapss/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/mymapss/mymapss.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=mymapss.github.io&theme=buefy" />
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
