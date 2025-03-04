@@ -22,8 +22,9 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 
-| <a href="https://github.com/mymapss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mymapss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mymapss's github stats" /></a> | <a href="https://github.com/mymapss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymapss&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/torvalds"><img align="center" src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linus Torvalds' GitHub Stats" /></a> | <a href="https://github.com/sindresorhus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sindresorhus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sindre Sorhus' GitHub Stats" /></a> |
 | ------------- | ------------- |
+
 
 #### Top Repositories
 
@@ -37,10 +38,3 @@ I'm a self-taught passionate developer from India 🇮🇳
 
 <br />
 <br />
-
-<a href="https://twitter.com/mymapss">
-  <img align="right" alt="mymapss | Twitter" width="21px" src="https://raw.githubusercontent.com/mymapss/mymapss/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/mymapss">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/mymapss/mymapss/master/assets/codesandbox.svg" />
-</a>
