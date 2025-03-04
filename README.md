@@ -22,7 +22,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 
-<p align="left"><a href="https://mymapss.github.io"><img width="100%" alt="Hello, I'm Bhoomika. I do open source!" src="Mymapss Github Stats.png" /></a></p>
+
 
 <br />
 
