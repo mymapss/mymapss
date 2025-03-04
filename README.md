@@ -18,9 +18,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="Express.js" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
-<code><img height="20" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
