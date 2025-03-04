@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mymapss.github.io"><img width="80%" alt="Hello, I'm Bhoomika. I do open source!" src="Hello! I'm Bhoomika.png" /></a></p>
+<p align="center"><a href="https://mymapss.github.io"><img width="80%" alt="Hello, I'm Bhoomika. I do open source!" src="Hello! I’m Bhoomika.png" /></a></p>
 
 <br />
 
