@@ -25,7 +25,6 @@ I'm a self-taught passionate developer from India 🇮🇳
 <p align="left"><a href="https://mymapss.github.io"><img width="100%" alt="Hello, I'm Bhoomika. I do open source!" src="Mymapss Github Stats.png" /></a></p>
 <br />
 <h3>Top Repositories</h3>
-<br/>
  <a href="https://github.com/mymapss/pern-chat-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=pern-chat-app&theme=buefy" width="400" height="auto" />
 </a>
