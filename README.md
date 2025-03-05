@@ -30,10 +30,10 @@ I'm a self-taught passionate developer from India 🇮🇳
 <br/>
 
  <a href="https://github.com/mymapss/pern-chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=pern-chat-app&theme=buefy" width="500" height="auto" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=pern-chat-app&theme=buefy" width="400" height="auto" />
 </a>
 <a href="https://github.com/mymapss/Store_IT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=Store_IT&theme=buefy" width="500" height="auto" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=Store_IT&theme=buefy" width="400" height="auto" />
 </a>
 
 
