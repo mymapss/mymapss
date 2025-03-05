@@ -24,7 +24,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 
 <p align="left"><a href="https://mymapss.github.io"><img width="100%" alt="Hello, I'm Bhoomika. I do open source!" src="Mymapss Github Stats.png" /></a></p>
 <br />
-**Top Repositories**
+<b>Top Repositories</b>
 <br/>
 
 <br/>
