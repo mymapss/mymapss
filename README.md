@@ -25,11 +25,11 @@ I'm a self-taught passionate developer from India 🇮🇳
 <p align="left"><a href="https://mymapss.github.io"><img width="100%" alt="Hello, I'm Bhoomika. I do open source!" src="Mymapss Github Stats.png" /></a></p>
 
 <h3>Top Repositories</h3>
- <a href="https://github.com/mymapss/pern-chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=pern-chat-app&theme=buefy" width="400" height="auto" />
+<a href="https://github.com/mymapss/pern-chat-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=pern-chat-app&theme=buefy&show_description=true" width="400" height="auto" />
 </a>
 <a href="https://github.com/mymapss/Store_IT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=Store_IT&theme=buefy" width="400" height="auto" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=Store_IT&theme=buefy&show_description=true" width="400" height="auto" />
 </a>
 
 
