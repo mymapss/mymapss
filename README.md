@@ -26,7 +26,6 @@ I'm a self-taught passionate developer from India 🇮🇳
 <br />
 <h3>Top Repositories</h3>
 <br/>
-<br/>
  <a href="https://github.com/mymapss/pern-chat-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=pern-chat-app&theme=buefy" width="400" height="auto" />
 </a>
