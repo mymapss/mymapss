@@ -4,7 +4,7 @@
 
 I'm a self-taught passionate developer from India 🇮🇳
 
-**About me**
+<h3>About Me</h3>
 
 - 💼 FrontEnd Developer | Web Developer | Full Stack Developer | Tech Enthusiast
 
