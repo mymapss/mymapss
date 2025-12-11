@@ -25,14 +25,9 @@ I'm a self-taught passionate developer from India 🇮🇳
 <p align="left"><a href="https://mymapss.github.io"><img width="100%" alt="Hello, I'm Bhoomika. I do open source!" src="Mymapss Github Stats.png" /></a></p>
 
 <h3>Top Repositories</h3>
-<p align="center">
-  <a href="https://github.com/mymapss/xora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=xora&theme=buefy" />
-  </a>
-  <a href="https://github.com/mymapss/Store_IT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=Store_IT&theme=buefy" />
-  </a>
-</p>
+
+[![xora](https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=xora&theme=buefy)](https://github.com/mymapss/xora)
+[![Store_IT](https://github-readme-stats.vercel.app/api/pin/?username=mymapss&repo=Store_IT&theme=buefy)](https://github.com/mymapss/Store_IT)
 
 
 <br />
