@@ -60,9 +60,9 @@ const developer = {
 |:--:|:--:|:--:|:--:|:--:|
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Shadcn](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white) | ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=react&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![Claude](https://img.shields.io/badge/-Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white) | ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white) | | ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 </div>
 
@@ -76,7 +76,7 @@ const developer = {
 <td width="50%" valign="top">
 <div align="center">
 
-### 💖 [Signalist](https://github.com/mymapss/signalist)
+### 💖 [Signalist](https://github.com/mymapss/signalist_stock-tracker-app)
 
 <img src="https://img.shields.io/badge/Stock_Market_Analytics-FF69B4?style=for-the-badge" />
 
@@ -86,7 +86,7 @@ AI-powered stock market platform with real-time tracking, personalized watchlist
 
 `Next.js` `TypeScript` `MongoDB` `Inngest` `AI/GPT`
 
-[![View Project](https://img.shields.io/badge/View-FF69B4?style=flat-square&logo=github&logoColor=white)](https://github.com/mymapss/signalist)
+[![View Project](https://img.shields.io/badge/View-FF69B4?style=flat-square&logo=github&logoColor=white)](https://github.com/mymapss/signalist_stock-tracker-app)
 
 </div>
 </td>
@@ -114,7 +114,7 @@ Real-time cryptocurrency analytics with live orderbook streams, TradingView char
 <td width="50%" valign="top">
 <div align="center">
 
-### ✨ [Collaborative LiveDocs](https://github.com/mymapss/livedocs)
+### ✨ [Collaborative LiveDocs](https://github.com/mymapss/collaborative-editor)
 
 <img src="https://img.shields.io/badge/Real--time_Editor-E0BBE4?style=for-the-badge" />
 
@@ -124,7 +124,7 @@ Real-time collaborative editing with live cursors, document sharing, and inline 
 
 `Next.js` `Liveblocks` `Lexical Editor` `NextAuth`
 
-[![View Project](https://img.shields.io/badge/View-E0BBE4?style=flat-square&logo=github&logoColor=white)](https://github.com/mymapss/livedocs)
+[![View Project](https://img.shields.io/badge/View-E0BBE4?style=flat-square&logo=github&logoColor=white)](https://github.com/mymapss/collaborative-editor)
 
 </div>
 </td>
@@ -132,7 +132,7 @@ Real-time collaborative editing with live cursors, document sharing, and inline 
 <td width="50%" valign="top">
 <div align="center">
 
-### 🦋 [AI Resume Analyzer](https://github.com/mymapss/resume-analyzer)
+### 🦋 [AI Resume Analyzer](https://github.com/mymapss/ai_resume_analyzer)
 
 <img src="https://img.shields.io/badge/AI_Tool-D8BFD8?style=for-the-badge" />
 
@@ -142,7 +142,7 @@ AI-powered resume analysis with GPT-4 and Claude AI for intelligent job matching
 
 `React` `TypeScript` `GPT-4` `Claude AI` `Zustand`
 
-[![View Project](https://img.shields.io/badge/View-D8BFD8?style=flat-square&logo=github&logoColor=white)](https://github.com/mymapss/resume-analyzer)
+[![View Project](https://img.shields.io/badge/View-D8BFD8?style=flat-square&logo=github&logoColor=white)](https://github.com/mymapss/ai_resume_analyzer)
 
 </div>
 </td>
@@ -151,7 +151,7 @@ AI-powered resume analysis with GPT-4 and Claude AI for intelligent job matching
 
 <br>
 
-<a href="https://portfolio-myjobs-projects.vercel.app/">
+<a href="https://github.com/mymapss?tab=repositories">
   <img src="https://img.shields.io/badge/View_All_Projects-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -192,4 +192,4 @@ AI-powered resume analysis with GPT-4 and Claude AI for intelligent job matching
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%" />
