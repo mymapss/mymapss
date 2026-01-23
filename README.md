@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>Hi, I'm Bhoomika 👋</h1>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=FF6B9D,4A90E2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Bhoomika;Full+Stack+Developer+%F0%9F%92%96;AI+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
 <h3>Full Stack Developer | AI Enthusiast | React & Next.js Expert</h3>
 
@@ -162,11 +164,13 @@ AI-powered resume analysis with GPT-4 and Claude AI for intelligent job matching
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mymapss&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=FFB6C1&text_color=cbd5e1&ring_color=FFB6C1&hide_rank=false" />
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mymapss&theme=material-palenight&hide_border=true&background=1a1b27&ring=FF6B9D&fire=FFB6C1&currStreakLabel=FF6B9D" />
-  
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymapss&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=cbd5e1&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mymapss&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=FFB6C1&text_color=cbd5e1&ring_color=FFB6C1&hide_rank=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mymapss&theme=material-palenight&hide_border=true&background=1a1b27&ring=FF6B9D&fire=FFB6C1&currStreakLabel=FF6B9D" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymapss&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=cbd5e1&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mymapss&theme=material-palenight&hide_border=true&bg_color=1a1b27&color=FF6B9D&line=FFB6C1&point=cbd5e1&area=true&area_color=FFB6C1" />
 </div>
 
 <br>
@@ -192,4 +196,4 @@ AI-powered resume analysis with GPT-4 and Claude AI for intelligent job matching
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:FFB6C1,100:E0BBE4&height=100&section=footer" width="100%" />
