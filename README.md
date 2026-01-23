@@ -2,26 +2,27 @@
 
 <h1>Hi, I'm Bhoomika 👋</h1>
 
-<h3>Frontend Developer specializing in React, Next.js & TypeScript</h3>
+<h3>Full Stack Developer | AI Enthusiast | React & Next.js Expert</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences+%E2%9C%A8;9%2B+months+of+production+experience+%F0%9F%92%96;Passionate+about+clean+code+%26+design+%F0%9F%8C%B8;Open+to+remote+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=26&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences+%E2%9C%A8;Full+Stack+%2B+AI+Integration+Expert+%F0%9F%A4%96;9%2B+months+of+production+experience+%F0%9F%92%96;Passionate+about+clean+code+%26+design+%F0%9F%8C%B8" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-### About Me
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 <table>
 <tr>
 <td width="50%">
 
-- 💻 **9+ months** building production-ready web applications
-- 🎨 **Expert** in React, Next.js & TypeScript
+- 💻 **9+ months** building production-ready applications
+- 🎨 **Full Stack** expertise in React, Next.js & Node.js
+- 🤖 **AI Integration** with GPT-4, Claude & vector databases
+- ⚡ **Backend** proficient with MongoDB, PostgreSQL & APIs
 - ✨ **Love** creating pixel-perfect, smooth UIs
 - 🌸 **Passionate** about performance & best practices
-- 💖 **Always** exploring new technologies
-- 🚀 **Open** to remote full-time opportunities
+- 🚀 **Always** exploring cutting-edge technologies
 
 </td>
 <td width="50%">
@@ -29,17 +30,19 @@
 ```javascript
 const developer = {
   name: "Bhoomika",
-  role: "Frontend Developer",
-  location: "Chennai, India 🇮🇳",
+  roles: ["Full Stack Developer", "Frontend Developer"],
+  location: "India 🇮🇳",
   
   tech: {
     frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    ai: ["GPT-4", "Claude AI"],
     styling: ["TailwindCSS", "Framer Motion"],
     tools: ["Git", "Docker", "Vercel"]
   },
   
-  currentFocus: "Building beautiful UIs ✨",
-  available: true
+  currentFocus: "Building AI-powered apps ✨",
+  hireable: true
 };
 ```
 
@@ -49,22 +52,23 @@ const developer = {
 
 <br>
 
-### Tech Stack
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack
 
 <div align="center">
 
-| Frontend | Styling | State | Backend | Tools |
+| Frontend | Styling | State | Backend | AI/Tools |
 |:--:|:--:|:--:|:--:|:--:|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Shadcn](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white) | ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=react&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white) | ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Shadcn](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white) | ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=react&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![Claude](https://img.shields.io/badge/-Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white) | ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 </div>
 
 <br>
 
-### Featured Projects
+### <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Featured Projects
 
 <div align="center">
 <table>
@@ -155,16 +159,19 @@ AI-powered resume analysis with GPT-4 and Claude AI for intelligent job matching
 
 <br>
 
-### GitHub Stats
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mymapss&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=FFB6C1&text_color=cbd5e1&ring_color=FFB6C1&hide_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymapss&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=cbd5e1" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mymapss&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=FFB6C1&text_color=cbd5e1&ring_color=FFB6C1&hide_rank=false" />
+  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mymapss&theme=material-palenight&hide_border=true&background=1a1b27&ring=FF6B9D&fire=FFB6C1&currStreakLabel=FF6B9D" />
+  
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymapss&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=cbd5e1&langs_count=8" />
 </div>
 
 <br>
 
-### Let's Connect
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Let's Connect
 
 <div align="center">
 
